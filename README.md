@@ -9,4 +9,4 @@ I used the Bootstrap framework to develop this website. This was my first time w
 - Bootstrap
 ---
 
-Hosted the website on https://bishnupada-sahoo-76.github.io/Tindog/
+Hosted the website on https://github.com/bishnupada-sahoo-76/Tindog
