@@ -1,5 +1,5 @@
 # Tindog
-A dating website specially curated for dogs!
+A dating website specially curated for dogs! Designed and launched a niche pet-focused dating website.
   
 I used the Bootstrap framework to develop this website. This was my first time working with bootstrap.
 
