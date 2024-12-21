@@ -7,7 +7,6 @@
 - HTML
 - CSS
 - Bootstrap
-
 ---
 Hosted the website on https://bishnupada-sahoo-76.github.io/Tindog/
 
